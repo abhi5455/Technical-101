@@ -4,7 +4,7 @@ import {Element} from "./assets/element.jsx";
 function App() {
 
   return (
-    <div style={{display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "flex-start", height: "100vh", width: "100%"}} >
+    <div style={{position: "relative", display: "flex", flexDirection: "column", justifyContent: "flex-start", height: "100%", width: "100%"}} >
         <header className={'header'}>Reference Pages </header>
         <div className={'container'}>
             <Element heading={"GIT HUB- Febin"} link={"https://github.com/fbn776"}></Element>
