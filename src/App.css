@@ -35,6 +35,6 @@
 }
 @media(max-width: 500px) {
   .childDiv{
-    min-width: 350px;
+    min-width: 300px;
   }
 }
