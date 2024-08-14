@@ -31,6 +31,10 @@
   font-family: Poppins, sans-serif;
   color: black;
 }
+.childDiv:hover{
+  transform: scale(1.02);
+  transition: transform 0.25s;
+}
 @media(max-width: 500px) {
   .childDiv{
     min-width: 80%;
