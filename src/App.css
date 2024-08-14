@@ -19,13 +19,13 @@
   align-items: center;
   gap: 20px;
   padding-top: 40px;
+  padding-bottom: 30px;
 }
 .childDiv{
   border-radius: 15px;
   display: flex;
   align-items: center;
   background-color: #ECCEAE;
-  color: white;
   width: 80%;
   text-decoration: none;
   font-family: Poppins, sans-serif;
