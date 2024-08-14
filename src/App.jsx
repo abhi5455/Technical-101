@@ -15,8 +15,6 @@ function App() {
             <Element heading={"TedX Website"} link={"https://www.tedxgecrit.com/"}></Element>
             <Element heading={"Ensemble Website"} link={"https://ensemblecse24.vercel.app/"}></Element>
             <Element heading={"Study Material"} link={"https://kgk.gitbook.io/resources"}></Element>
-            <Element heading={"Activity Form"} link={"https://bit.ly/github-setup-101"}></Element>
-            <Element heading={"Activity Site"} link={"https://fbn776.github.io/github-activity/"}></Element>
         </div>
     </div>
   )
