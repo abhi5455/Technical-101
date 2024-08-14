@@ -7,7 +7,7 @@ function App() {
     <div style={{position: "relative", display: "flex", flexDirection: "column", justifyContent: "flex-start", height: "100%", width: "100%"}} >
         <header className={'header'}>Reference Pages </header>
         <div className={'container'}>
-            <Element heading={"GIT HUB- Febin"} link={"https://github.com/fbn776"}></Element>
+            <Element heading={"GIT HUB- Febin"} link={"https://github.com/fbn776"} description={"Add Description"}></Element>
             <Element heading={"Projects- Febin"} link={"https://fbn776.github.io/"}></Element>
             <Element heading={"GIT HUB- Abhiram"} link={"https://github.com/abhi5455"}></Element>
             <Element heading={"Projects- Abhiram"} link={"https://abhi5455.github.io/Projects/"}></Element>
