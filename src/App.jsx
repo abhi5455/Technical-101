@@ -1,5 +1,6 @@
 import './App.css'
-import {Element} from "./assets/element.jsx";
+import './resize.css'
+import {Element} from "./element.jsx";
 
 function App() {
 

@@ -1,0 +1,15 @@
+@media(max-width: 500px) {
+    .childDiv{
+        min-width: 80%;
+    }
+    .childDiv h3{
+        font-size: 15px;
+    }
+    .childDiv p{
+        font-size: 14px;
+    }
+    .openIcon{
+        width: 25px;
+        height: 25px;
+    }
+}

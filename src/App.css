@@ -37,8 +37,4 @@
   transform: scale(1.02);
   transition: transform 0.3s;
 }
-@media(max-width: 500px) {
-  .childDiv{
-    min-width: 80%;
-  }
-}
+
