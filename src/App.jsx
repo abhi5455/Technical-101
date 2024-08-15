@@ -15,9 +15,9 @@ function App() {
             <Element heading={"Projects- Febin"} link={"https://fbn776.github.io/"}></Element>
             <Element heading={"GIT HUB- Abhiram"} link={"https://github.com/abhi5455"}></Element>
             <Element heading={"Projects- Abhiram"} link={"https://abhi5455.github.io/Projects/"}></Element>
-            <Element heading={"KTU BOT"} link={"https://t.me/ktu_results_bot/"}></Element>
-            <Element heading={"TedX Website"} link={"https://www.tedxgecrit.com/"}></Element>
             <Element heading={"Ensemble Website"} link={"https://ensemblecse24.vercel.app/"}></Element>
+            <Element heading={"TedX Website"} link={"https://www.tedxgecrit.com/"}></Element>
+            <Element heading={"KTU BOT"} link={"https://t.me/ktu_results_bot/"}></Element>
             <Element heading={"Study Material"} link={"https://kgk.gitbook.io/resources"}></Element>
         </div>
     </div>
