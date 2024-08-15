@@ -32,6 +32,7 @@
   font-family: Poppins, sans-serif;
   color: #bfc2ca;
   outline: 1px solid gray;
+  overflow-wrap: break-word;
 }
 .childDiv:hover{
   transform: scale(1.02);
