@@ -1,4 +1,7 @@
 @media(max-width: 500px) {
+    .header{
+        height:80px;
+    }
     .childDiv{
         min-width: 80%;
     }
