@@ -2,6 +2,9 @@
     .header{
         height:80px;
     }
+    .container{
+        gap: 22px;
+    }
     .childDiv{
         min-width: 80%;
     }
