@@ -6,7 +6,10 @@ function App() {
 
   return (
     <div style={{position: "relative", display: "flex", flexDirection: "column", justifyContent: "flex-start", height: "100%", width: "100%"}} >
-        <header className={'header'}>Tinker - 101 </header>
+        <header className={'header'}>
+            <img alt={''} src={'tinkerLogo.png'} className={'logo'}></img>
+            Tinker - 101
+        </header>
         <div className={'container'}>
             <Element heading={"GIT HUB- Febin"} link={"https://github.com/fbn776"} description={"Add Description"}></Element>
             <Element heading={"Projects- Febin"} link={"https://fbn776.github.io/"}></Element>
