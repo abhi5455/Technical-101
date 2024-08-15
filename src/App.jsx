@@ -8,7 +8,7 @@ function App() {
     <div style={{position: "relative", display: "flex", flexDirection: "column", justifyContent: "flex-start", height: "100%", width: "100%"}} >
         <header className={'header'}>
             <img alt={''} src={'tinkerLogo.png'} className={'logo'}></img>
-            Tinker - 101
+            Technical101 - 2024
         </header>
         <div className={'container'}>
             <Element heading={"GIT HUB- Febin"} link={"https://github.com/fbn776"} description={"Add Description"}></Element>
