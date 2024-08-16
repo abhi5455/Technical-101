@@ -1,0 +1,46 @@
+import Header from "../components/header/Header.jsx";
+import HomeElement from "../components/HomeElement/HomeElement.jsx";
+import {useEffect, useState} from "react";
+
+export default function Home() {
+    let [homeElementsObj, setHomeElementsObj] = useState([]);
+    let [homeElements, setHomeElements] = useState([]);
+    useEffect(() => {
+        setHomeElementsObj([
+            {
+                section: "Resources",
+                path: "/OurLinks"
+            },
+            {
+                section: "OurLinks",
+                path: "/OurLinks"
+            },
+            {
+                section: "Random Stuffs",
+                path: "/Home/randomStuff"
+            },
+            {
+                section: "Interesting",
+                path: "/Home/interesting"
+            }
+        ])
+    }, []);
+    useEffect(()=>{
+        function updateHomeElements(){
+            let arr=[];
+            for(let i=0;i<homeElementsObj.length;i++){
+                arr=[...arr,<HomeElement key={i} section={homeElementsObj[i].section} path={homeElementsObj[i].path}></HomeElement> ]
+            }
+            setHomeElements(arr);
+        }
+        updateHomeElements();
+    },[homeElementsObj])
+    return (
+        <>
+            <Header></Header>
+            <div className="container">
+                {homeElements}
+            </div>
+        </>
+    )
+}

@@ -1,4 +1,6 @@
-export function Element({heading ,link, description}) {
+import './Element.css'
+
+export default function Element({heading ,link, description}) {
     return(
         <a href={link} className="childDiv">
             <div style={{display: 'flex', justifyContent: 'space-around', alignItems: 'center', width: '100%'}}>

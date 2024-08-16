@@ -1,0 +1,37 @@
+.childDiv1{
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    background-color: #161b22;
+    width: 35%;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    color: #bfc2ca;
+    outline: 1px solid gray;
+    border: grey;
+    overflow-wrap: break-word;
+}
+.childDiv1:hover{
+    transform: scale(1.02);
+    transition: transform 0.3s;
+    outline: 1px solid #1f6feb;
+    .openIcon{
+        fill: white;
+    }
+}
+
+@media (max-width: 1300px) {
+    .childDiv1{
+        min-width: 40%;
+    }
+}
+@media (max-width: 1100px) {
+    .childDiv1{
+        min-width: 60%;
+    }
+}
+@media (max-width: 700px) {
+    .childDiv1{
+        min-width: 80%;
+    }
+}
