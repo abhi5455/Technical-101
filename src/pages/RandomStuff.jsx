@@ -24,7 +24,7 @@ function RandomStuff() {
             {
                 heading: "Todo-List",
                 link: "https://abhi5455-todo-list.vercel.app/",
-                description: "A To-Do List app simplifies task management."
+                description: "A Todo List app simplifies task management."
             },
             {
                 heading: "Whatsapp-Sender",
