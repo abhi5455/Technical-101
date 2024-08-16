@@ -5,7 +5,7 @@ export default function Element({heading ,link, description}) {
         <a href={link} className="childDiv">
             <div style={{display: 'flex', justifyContent: 'space-around', alignItems: 'center', width: '100%'}}>
                 <div style={{width: '80%'}}>
-                    <h3>{heading}</h3>
+                    <h3 className={"Heading"}>{heading}</h3>
                     <p>{description}</p>
                 </div>
                 <svg xmlns="http://www.w3.org/2000/svg" className={'openIcon'} width="32" height="32" fill="#bfc2ca" viewBox="0 0 256 256">

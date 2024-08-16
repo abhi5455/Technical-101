@@ -13,7 +13,7 @@ export default function ContainerElements({Elements}) {
             width: "100%"
         }}>
             <Header></Header>
-            <h4 className={"path"}>{location.pathname.split("/").filter(Boolean).join(">")}</h4>
+            <h4 className={"path"}>{location.pathname.split("/").filter(Boolean).join(" > ")}</h4>
             <div className={'container'}>
                 {Elements}
             </div>
