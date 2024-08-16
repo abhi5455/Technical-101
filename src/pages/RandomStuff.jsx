@@ -18,7 +18,7 @@ function RandomStuff() {
             },
             {
                 heading: "Cave-Copter",
-                link: "https://www.instagram.com/tinkerhub",
+                link: "https://fbn776.github.io/copter/",
                 description: "A game where you survive with a faulty helicopter in a cave."
             },
             {
