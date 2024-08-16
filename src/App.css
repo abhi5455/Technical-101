@@ -36,7 +36,8 @@
   text-decoration: none;
   font-family: Poppins, sans-serif;
   color: #bfc2ca;
-  outline: 1px solid gray;
+  /*outline: 1px solid gray;*/
+  border: grey;
   overflow-wrap: break-word;
 }
 .childDiv:hover{
