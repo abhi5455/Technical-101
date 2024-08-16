@@ -9,7 +9,7 @@ export default function Home() {
         setHomeElementsObj([
             {
                 section: "Resources",
-                path: "/OurLinks"
+                path: "/Resources"
             },
             {
                 section: "OurLinks",
@@ -17,11 +17,11 @@ export default function Home() {
             },
             {
                 section: "Random Stuffs",
-                path: "/Home/randomStuff"
+                path: "/randomStuff"
             },
             {
                 section: "Interesting",
-                path: "/Home/interesting"
+                path: "/interesting"
             }
         ])
     }, []);

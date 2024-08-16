@@ -12,7 +12,7 @@ const router = createBrowserRouter([
         element: <Home/>,
     },
     {
-        path: "/OurLinks",
+        path: "OurLinks",
         element: <OurLinks/>,
     }
 ]);
