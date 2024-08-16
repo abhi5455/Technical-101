@@ -17,7 +17,7 @@ export default function Home() {
             },
             {
                 section: "Random Stuffs",
-                path: "/randomStuff"
+                path: "/RandomStuff"
             },
             {
                 section: "Interesting",
