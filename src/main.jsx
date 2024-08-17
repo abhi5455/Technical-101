@@ -5,13 +5,14 @@ import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import OurLinks from "./pages/OurLinks.jsx";
 import RandomStuff from "./pages/RandomStuff.jsx";
+import ErrorElement from "./components/ErrorElement/ErrorElement.jsx";
 
 
 const router = createBrowserRouter([
     {
         path: "/",
         element: <Home/>,
-        errorElement: <h1 style={{color: "white"}}>ERROR</h1>,
+        errorElement: <ErrorElement/>,
     },
     {
         path: "/OurLinks",

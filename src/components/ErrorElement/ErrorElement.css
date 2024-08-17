@@ -1,0 +1,33 @@
+.errorBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.errorBody h1{
+    color: #bfc2ca;
+    font-family: Poppins, sans-serif;
+}
+.errorBody button{
+    border: none;
+    background-color: #161b22;
+    color: #f78166;
+    outline: 1px solid gray;
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: Poppins, sans-serif;
+}
+.errorBody button:hover{
+    cursor: pointer;
+    outline: 1px solid #1f6feb;
+}
+@media (max-width: 500px) {
+    .errorBody h1{
+        font-size: 24px;
+        margin-top: -100px;
+    }
+
+}
