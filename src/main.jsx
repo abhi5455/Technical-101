@@ -7,6 +7,10 @@ import OurLinks from "./pages/OurLinks.jsx";
 import StudentProjects from "./pages/StudentProjects.jsx";
 import ErrorElement from "./components/ErrorElement/ErrorElement.jsx";
 import Interesting from "./pages/Interesting.jsx";
+import Resources from "./pages/Resources.jsx";
+import WebDevelopment from "./pages/WebDevelopment.jsx";
+import AIModel from "./pages/AIModel.jsx";
+import Python from "./pages/Python.jsx";
 
 
 const router = createBrowserRouter([
@@ -26,6 +30,22 @@ const router = createBrowserRouter([
     {
         path: "/Interesting",
         element: <Interesting/>,
+    },
+    {
+        path: "/Resources",
+        element: <Resources/>,
+    },
+    {
+        path: "/Resources/WebDevelopment",
+        element: <WebDevelopment/>,
+    },
+    {
+        path: "/Resources/Python",
+        element: <Python/>,
+    },
+    {
+        path: "/Resources/AIModel",
+        element: <AIModel/>,
     }
 ]);
 createRoot(document.getElementById('root')).render(
