@@ -1,5 +1,4 @@
 import '../components/Element/Element.css'
-import '../resize.css'
 import Element from "../components/Element/Element.jsx";
 import {useEffect, useState} from "react";
 import ContainerElements from "../components/ContainerElements.jsx";
