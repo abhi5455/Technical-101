@@ -2,7 +2,7 @@ import './Element.css'
 
 export default function Element({heading ,link, description}) {
     return(
-        <a href={link} className="childDiv">
+        <a href={link} className="childDiv" target='_blank'>
             <div style={{display: 'flex', justifyContent: 'space-around', alignItems: 'center', width: '100%'}}>
                 <div style={{width: '80%'}}>
                     <h3 className={"Heading"}>{heading}</h3>
