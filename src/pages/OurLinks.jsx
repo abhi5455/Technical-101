@@ -25,6 +25,11 @@ function OurLinks() {
                 link: "https://www.linkedin.com/company/tinkerhub-rit/",
                 description: "Official LinkedIn Account of Tinkerhub.rit"
             },
+            {
+                heading: "Mail",
+                link: "mailto:tinkerhub@rit.ac.in",
+                description: "Official mail of Tinkerhub.rit"
+            },
         ]);
     },[]);
 
