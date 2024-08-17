@@ -11,6 +11,16 @@ function RandomStuff() {
     useEffect(() => {
         setInnerElementObj([
             {
+                heading: "Ensemble-Website",
+                link: "https://ensemblecse24.vercel.app/",
+                description: "The website for the Techno-Cultural Event of RIT CSE."
+            },
+            {
+                heading: "TedX-Website",
+                link: "https://www.tedxgecrit.com/",
+                description: "The official website of TEDx-GECRIT."
+            },
+            {
                 heading: "Expense-Tracker",
                 link: "https://abhi5455.github.io/E-Tracker/",
                 description: "A website which keeps track users Expenses."
@@ -31,14 +41,20 @@ function RandomStuff() {
                 description: "A simple tool to message numbers without actually saving them in your phone."
             },
             {
-                heading: "Falling-Sand",
-                link: "https://fbn776.github.io/falling-sand/",
-                description: "A falling sand game using cellular automata."
+                heading: "KTU-bot",
+                link: "https://t.me/ktu_results_bot",
+                description: "This telegram bot that streamlines KTU portal stuffs in telegram."
             },
             {
                 heading: "Unit-Converter",
                 link: "https://abhi5455.github.io/Unit_Converter/",
                 description: "This web app allows users to effortlessly convert between various units of measurement with accuracy and ease."
+            },
+
+            {
+                heading: "Falling-Sand",
+                link: "https://fbn776.github.io/falling-sand/",
+                description: "A falling sand game using cellular automata."
             },
         ]);
     },[]);
