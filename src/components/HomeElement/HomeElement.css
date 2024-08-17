@@ -16,7 +16,7 @@
     transition: transform 0.3s;
     outline: 1px solid #1f6feb;
     .openIcon{
-        fill: white;
+        fill: #bfc2ca;
     }
 }
 
