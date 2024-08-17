@@ -11,6 +11,7 @@ const router = createBrowserRouter([
     {
         path: "/",
         element: <Home/>,
+        errorElement: <h1 style={{color: "white"}}>ERROR</h1>,
     },
     {
         path: "/OurLinks",

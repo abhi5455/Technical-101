@@ -33,3 +33,23 @@
     color: #f78166;
   }
 }
+@media(max-width: 500px) {
+  .container{
+    gap: 25px;
+  }
+  .childDiv{
+    width: 85%;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .childDiv h3{
+    font-size: 17px;
+  }
+  .childDiv p{
+    font-size: 14px;
+  }
+  .openIcon{
+    width: 25px;
+    height: 25px;
+  }
+}
