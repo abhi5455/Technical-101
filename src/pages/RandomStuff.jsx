@@ -13,12 +13,12 @@ function RandomStuff() {
             {
                 heading: "Ensemble-Website",
                 link: "https://ensemblecse24.vercel.app/",
-                description: "The website for the Techno-Cultural Event of RIT CSE."
+                description: "The website for the Techno-Cultural Event of RIT CSE 2024."
             },
             {
                 heading: "TedX-Website",
                 link: "https://www.tedxgecrit.com/",
-                description: "The official website of TEDx-GECRIT."
+                description: "The official website of TEDx-GECRIT 2024."
             },
             {
                 heading: "Expense-Tracker",
