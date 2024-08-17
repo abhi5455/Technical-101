@@ -13,17 +13,17 @@ function AIModel() {
             {
                 heading: "ChatGPT",
                 link: "https://chatgpt.com/",
-                description: "Developed by OpenAI",
+                description: "Developed by OpenAI.",
             },
             {
                 heading: "Gemini",
                 link: "https://gemini.google.com/",
-                description: "Developed by Google",
+                description: "Developed by Google.",
             },
             {
                 heading: "Copilot",
                 link: "https://copilot.microsoft.com/",
-                description: "Developed by Microsoft",
+                description: "Developed by Microsoft in collaboration with OpenAI.",
             },
         ]);
     },[]);
