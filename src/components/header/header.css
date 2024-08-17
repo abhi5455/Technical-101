@@ -43,9 +43,8 @@
     border-bottom: #f78166;
 }
 .path{
-    background-color: #010409;
-    margin-top: 0;
-    margin-bottom: -10px;
+    margin-top: 5px;
+    margin-bottom: -15px;
     color: dimgrey;
     padding-left: 10px;
     padding-bottom: 10px;
@@ -54,9 +53,11 @@
 }
 @media (max-width: 500px) {
     .header{
-        height:80px;
+        height:60px;
+        font-size: 20px;
     }
     .path{
         font-size: 10px;
+        margin-bottom: -30px;
     }
 }
