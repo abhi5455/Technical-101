@@ -13,17 +13,17 @@ function AIModel() {
             {
                 heading: "ChatGPT",
                 link: "https://chatgpt.com/",
-                description: "Road map for Frond-End Development",
+                description: "Developed by OpenAI",
             },
             {
                 heading: "Gemini",
                 link: "https://gemini.google.com/",
-                description: "YouTube channel for learning Frond-End",
+                description: "Developed by Google",
             },
             {
                 heading: "Copilot",
                 link: "https://copilot.microsoft.com/",
-                description: "JavaScript Tutorial - w3 Schools",
+                description: "Developed by Microsoft",
             },
         ]);
     },[]);
