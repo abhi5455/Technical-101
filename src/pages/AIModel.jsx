@@ -21,7 +21,7 @@ function AIModel() {
                 description: "Developed by Google.",
             },
             {
-                heading: "Copilot",
+                heading: "Microsoft Copilot",
                 link: "https://copilot.microsoft.com/",
                 description: "Developed by Microsoft in collaboration with OpenAI.",
             },
