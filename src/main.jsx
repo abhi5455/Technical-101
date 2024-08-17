@@ -6,6 +6,7 @@ import Home from "./pages/Home.jsx";
 import OurLinks from "./pages/OurLinks.jsx";
 import StudentProjects from "./pages/StudentProjects.jsx";
 import ErrorElement from "./components/ErrorElement/ErrorElement.jsx";
+import Interesting from "./pages/Interesting.jsx";
 
 
 const router = createBrowserRouter([
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
     {
         path: "/StudentProjects",
         element: <StudentProjects/>,
+    },
+    {
+        path: "/Interesting",
+        element: <Interesting/>,
     }
 ]);
 createRoot(document.getElementById('root')).render(

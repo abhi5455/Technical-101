@@ -21,7 +21,7 @@ export default function Home() {
             },
             {
                 section: "Interesting",
-                path: "/interesting"
+                path: "/Interesting"
             }
         ])
     }, []);
