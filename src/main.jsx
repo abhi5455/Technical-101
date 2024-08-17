@@ -4,7 +4,7 @@ import './index.css'
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import OurLinks from "./pages/OurLinks.jsx";
-import RandomStuff from "./pages/RandomStuff.jsx";
+import StudentProjects from "./pages/StudentProjects.jsx";
 import ErrorElement from "./components/ErrorElement/ErrorElement.jsx";
 
 
@@ -19,8 +19,8 @@ const router = createBrowserRouter([
         element: <OurLinks/>,
     },
     {
-        path: "/RandomStuff",
-        element: <RandomStuff/>,
+        path: "/StudentProjects",
+        element: <StudentProjects/>,
     }
 ]);
 createRoot(document.getElementById('root')).render(

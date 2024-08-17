@@ -17,7 +17,7 @@ export default function Home() {
             },
             {
                 section: "Student Projects",
-                path: "/RandomStuff"
+                path: "/StudentProjects"
             },
             {
                 section: "Interesting",

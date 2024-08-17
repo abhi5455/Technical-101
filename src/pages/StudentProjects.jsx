@@ -4,7 +4,7 @@ import {useEffect, useState} from "react";
 import ContainerElements from "../components/ContainerElements.jsx";
 
 
-function RandomStuff() {
+function StudentProjects() {
     let [innerElementObj, setInnerElementObj] = useState([]);
     let [innerElements, setInnerElements] = useState([]);
 
@@ -74,4 +74,4 @@ function RandomStuff() {
     )
 }
 
-export default RandomStuff
+export default StudentProjects
