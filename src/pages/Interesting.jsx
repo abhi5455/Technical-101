@@ -21,6 +21,26 @@ function Interesting() {
                 description: "The site guides developers in picking up a path and guide their learnings."
             },
             {
+                heading: "VirusTotal",
+                link: "https://www.virustotal.com/gui/home/upload",
+                description: "Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches."
+            },
+            {
+                heading: "Reading Stuffs",
+                link: "https://ndl.iitkgp.ac.in/",
+                description: "A Single-Source Knowledge Repository."
+            },
+            {
+                heading: "What If",
+                link: "https://what-if.xkcd.com/",
+                description: "Serious Scientific Answers to Absurd Hypothetical Questions."
+            },
+            {
+                heading: "AsciiFlow",
+                link: "https://asciiflow.com/#/",
+                description: "Draw infinite ascii diagrams."
+            },
+            {
                 heading: "Games",
                 link: "https://gamesnacks.com/",
                 description: "Enjoy your Fun time."
