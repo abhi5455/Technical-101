@@ -36,9 +36,19 @@ function Interesting() {
                 description: "Serious Scientific Answers to Absurd Hypothetical Questions."
             },
             {
+                heading: "IT-Tools",
+                link: "https://it-tools.tech/",
+                description: "Online platform offering an extensive collection of free, web-based tools tailored for tech enthusiasts."
+            },
+            {
                 heading: "AsciiFlow",
                 link: "https://asciiflow.com/#/",
                 description: "Draw infinite ascii diagrams."
+            },
+            {
+                heading: "10015",
+                link: "https://10015.io/",
+                description: "Free Tools for Creators."
             },
             {
                 heading: "Games",
