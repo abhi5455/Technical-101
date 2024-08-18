@@ -13,7 +13,7 @@ function AcademicDiscounts() {
             {
                 heading: "JetBrains",
                 link: "https://www.jetbrains.com/shop/eform/students",
-                description: "Get free Jet Brains products for students using College mail id.",
+                description: "Get Jet Brains products free for students using College mail id.",
             },{
                 heading: "Github Developer pack",
                 link: "https://education.github.com/pack",
