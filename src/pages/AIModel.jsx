@@ -25,6 +25,11 @@ function AIModel() {
                 link: "https://copilot.microsoft.com/",
                 description: "Developed by Microsoft in collaboration with OpenAI.",
             },
+            {
+                heading: "Perplexity AI",
+                link: "https://www.perplexity.ai/",
+                description: "Developed by Perplexity.",
+            },
         ]);
     },[]);
 
