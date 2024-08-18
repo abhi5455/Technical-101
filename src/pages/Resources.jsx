@@ -18,6 +18,10 @@ export default function Resources() {
             {
                 section: "AI Models",
                 path: "AIModel"
+            },
+            {
+                section: "Academic Discounts",
+                path: "AcademicDiscounts"
             }
         ])
     }, []);

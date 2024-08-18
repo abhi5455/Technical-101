@@ -11,6 +11,7 @@ import Resources from "./pages/Resources.jsx";
 import WebDevelopment from "./pages/WebDevelopment.jsx";
 import AIModel from "./pages/AIModel.jsx";
 import Python from "./pages/Python.jsx";
+import AcademicDiscounts from "./pages/AcademicDiscounts.jsx";
 
 
 const router = createBrowserRouter([
@@ -46,6 +47,10 @@ const router = createBrowserRouter([
     {
         path: "/Resources/AIModel",
         element: <AIModel/>,
+    },
+    {
+        path: "/Resources/AcademicDiscounts",
+        element: <AcademicDiscounts/>,
     }
 ]);
 createRoot(document.getElementById('root')).render(
