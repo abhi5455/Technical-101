@@ -37,6 +37,7 @@
 }
 @media(max-width: 500px) {
   .container{
+    top: 85px;
     gap: 25px;
   }
   .childDiv{
