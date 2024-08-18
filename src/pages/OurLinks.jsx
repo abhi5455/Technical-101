@@ -17,7 +17,7 @@ function OurLinks() {
             },
             {
                 heading: "Instagram",
-                link: "https://www.instagram.com/tinkerhub",
+                link: "https://www.instagram.com/tinkerhub.rit",
                 description: "Official Instagram Account of Tinkerhub.rit"
             },
             {
