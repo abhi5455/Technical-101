@@ -21,9 +21,9 @@ function WebDevelopment() {
                 description: "YouTube channel for learning Frond-End",
             },
             {
-                heading: "JavaScript",
-                link: "https://www.w3schools.com/js/default.asp",
-                description: "JavaScript Tutorial - w3 Schools",
+                heading: "html",
+                link: "https://www.w3schools.com/html/default.asp",
+                description: "html Tutorial - w3 Schools",
             },
             {
                 heading: "css",
@@ -31,9 +31,9 @@ function WebDevelopment() {
                 description: "css Tutorial - w3 Schools",
             },
             {
-                heading: "html",
-                link: "https://www.w3schools.com/html/default.asp",
-                description: "html Tutorial - w3 Schools",
+                heading: "JavaScript",
+                link: "https://www.w3schools.com/js/default.asp",
+                description: "JavaScript Tutorial - w3 Schools",
             },
             {
                 heading: "Web Development",
