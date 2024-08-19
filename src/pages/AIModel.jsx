@@ -30,6 +30,11 @@ function AIModel() {
                 link: "https://www.perplexity.ai/",
                 description: "Developed by Perplexity.",
             },
+            {
+                heading: "Stable Diffusion",
+                link: "https://stabledifffusion.com/",
+                description: "Free Generate Images from Simple Text Prompts.",
+            },
         ]);
     },[]);
 
