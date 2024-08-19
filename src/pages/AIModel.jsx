@@ -35,6 +35,11 @@ function AIModel() {
                 link: "https://stabledifffusion.com/",
                 description: "Free Generate Images from Simple Text Prompts.",
             },
+            {
+                heading: "Hugging Face",
+                link: "https://huggingface.co/",
+                description: "Provides a rich collection of pre-trained transformer models.",
+            },
         ]);
     },[]);
 
