@@ -11,12 +11,17 @@ function Python() {
     useEffect(() => {
         setInnerElementObj([
             {
-                heading: "Channel 1",
+                heading: "Programming with Mosh",
                 link: "https://youtu.be/_uQrJ0TkZlc",
                 description: "YouTube channel for learning Python",
             },
             {
-                heading: "Channel 2",
+                heading: "Neso Academy",
+                link: "https://www.youtube.com/@nesoacademy",
+                description: "YouTube channel for learning Python",
+            },
+            {
+                heading: "Indently",
                 link: "https://www.youtube.com/@indently",
                 description: "YouTube channel for learning Python",
             },
