@@ -35,6 +35,11 @@ function AcademicDiscounts() {
                 link: "https://bitbucket.org/product/education",
                 description: "A Git-based source code repository hosting service owned by Atlassian.",
             },
+            {
+                heading: "More...",
+                link: "https://github.com/AchoArnold/discount-for-student-dev",
+                description: "The repo contains more student offers.",
+            },
         ]);
     },[]);
 
