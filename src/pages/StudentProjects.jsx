@@ -21,7 +21,7 @@ function StudentProjects() {
                 description: "The official website of TEDx-GECRIT 2024."
             },
             {
-                heading: "CineSeek",
+                heading: "Cine-Seek",
                 link: "https://cine-seek.vercel.app/",
                 description: "A responsive web app that lets users search movies using an API."
             },
