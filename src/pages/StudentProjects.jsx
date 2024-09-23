@@ -21,6 +21,11 @@ function StudentProjects() {
                 description: "The official website of TEDx-GECRIT 2024."
             },
             {
+                heading: "CineSeek",
+                link: "https://cine-seek.vercel.app/",
+                description: "A responsive web app that lets users search movies using an API."
+            },
+            {
                 heading: "Expense-Tracker",
                 link: "https://abhi5455.github.io/E-Tracker/",
                 description: "A website which keeps track users Expenses."
