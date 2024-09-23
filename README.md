@@ -17,7 +17,7 @@
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for new features or improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-repo-link).
+Contributions are welcome! If you have suggestions for new features or improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/abhi5455/Technical-101).
 
 ## License
 
