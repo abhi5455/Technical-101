@@ -81,3 +81,10 @@
         fill: #bfc2ca;
     }
 }
+
+.icon-tabler-git-fork:hover{
+    color: #3b93f8;
+}
+.icon-tabler-home:hover, .icon-tabler-message:hover{
+    color: #3b93f8;
+}

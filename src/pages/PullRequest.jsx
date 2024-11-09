@@ -1,4 +1,5 @@
 import {Link} from "react-router-dom";
+import '/src/components/header/header.css'
 
 export default function PullRequest() {
     return <>
