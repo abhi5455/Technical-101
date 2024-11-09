@@ -1,4 +1,3 @@
-import Header from "../components/header/Header.jsx";
 import {Link} from "react-router-dom";
 
 export default function PullRequest() {
@@ -68,7 +67,7 @@ export default function PullRequest() {
                     </li>
                     <li>
                         <strong>Fork the Repository</strong>
-                        <p>Click on the "Fork" button to create a copy of the repository in your GitHub account.</p>
+                        <p>Click on the &quot;Fork&quot; button to create a copy of the repository in your GitHub account.</p>
                     </li>
                     <li>
                         <strong>Clone the Repository</strong>
@@ -86,7 +85,7 @@ export default function PullRequest() {
                     </li>
                     <li>
                         <strong>Make Your Changes</strong>
-                        <p>Edit the files in the "Resources" section to add new links, modify descriptions, or update
+                        <p>Edit the files in the &quot;Resources&quot; section to add new links, modify descriptions, or update
                             outdated resources. Ensure your suggestions are accurate and valuable for other users.</p>
                     </li>
                     <li>
@@ -94,7 +93,7 @@ export default function PullRequest() {
                         <p>Once your changes are ready, commit and push them to your forked repository:</p>
                         <pre>
                 <code>git add .</code><br/>
-                <code>git commit -m "Add suggestions to resources"</code><br/>
+                <code>git commit -m &quot;Add suggestions to resources&quot;</code><br/>
                 <code>git push origin suggested-changes</code>
               </pre>
                     </li>
