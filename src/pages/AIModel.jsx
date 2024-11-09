@@ -4,7 +4,7 @@ import {useEffect, useState} from "react";
 import ContainerElements from "../components/ContainerElements.jsx";
 
 
-function AIModel() {
+export default function AIModel() {
     let [innerElementObj, setInnerElementObj] = useState([]);
     let [innerElements, setInnerElements] = useState([]);
 
@@ -62,5 +62,3 @@ function AIModel() {
         <ContainerElements Elements={innerElements}></ContainerElements>
     )
 }
-
-export default AIModel
