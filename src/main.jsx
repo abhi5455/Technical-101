@@ -22,7 +22,7 @@ const router = createBrowserRouter([
         errorElement: <ErrorElement/>,
     },
     {
-      path: "/pullrequest",
+      path: "/contribute",
       element: <PullRequest/>,
       errorElement: <ErrorElement/>,
     },
