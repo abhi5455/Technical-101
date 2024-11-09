@@ -21,6 +21,11 @@ function AIModel() {
                 description: "Developed by Google.",
             },
             {
+                heading: "BlackBox AI",
+                link: "https://www.blackbox.ai/",
+                description: "Blackbox AI is designed to integrate into coding environments",
+            },
+            {
                 heading: "Microsoft Copilot",
                 link: "https://copilot.microsoft.com/",
                 description: "Developed by Microsoft in collaboration with OpenAI.",
