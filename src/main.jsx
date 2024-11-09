@@ -12,6 +12,7 @@ import WebDevelopment from "./pages/WebDevelopment.jsx";
 import AIModel from "./pages/AIModel.jsx";
 import Python from "./pages/Python.jsx";
 import AcademicDiscounts from "./pages/AcademicDiscounts.jsx";
+import PullRequest from "./pages/PullRequest.jsx";
 
 
 const router = createBrowserRouter([
@@ -19,6 +20,11 @@ const router = createBrowserRouter([
         path: "/",
         element: <Home/>,
         errorElement: <ErrorElement/>,
+    },
+    {
+      path: "/pullrequest",
+      element: <PullRequest/>,
+      errorElement: <ErrorElement/>,
     },
     {
         path: "/OurLinks",

@@ -68,3 +68,16 @@
         top: 62px;
     }
 }
+.pullRequest{
+    background-color: #010409;
+    border: none;
+    color: #bfc2ca;
+    position: absolute;
+    right: 3%;
+}
+.pullRequest:hover{
+    cursor: pointer;
+    .icon{
+        fill: #bfc2ca;
+    }
+}
