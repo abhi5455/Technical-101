@@ -1,11 +1,8 @@
 import './header.css'
 import {Link, useLocation} from "react-router-dom";
-import getData from "../../lib/Data.js";
 
 export default function Header() {
     const location = useLocation();
-    //console.log(location.pathname, location.pathname==="/");
-    console.log(getData(location.pathname));
     return (
         <>
             <header className={'header'}>
